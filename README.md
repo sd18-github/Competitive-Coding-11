@@ -1,3 +1,5 @@
 # Competitive-Coding-11
 
-Please submit the interview problems posted in slack channel here. The problems and statements are intentionally not shown here so that students are not able to see them in advance 
+## Problem 1: [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+
+## Problem 2: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
